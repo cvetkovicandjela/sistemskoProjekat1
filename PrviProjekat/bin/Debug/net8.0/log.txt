@@ -1,0 +1,8 @@
+21:43:00.242 [nit 10] Zahtev za fajl: slika.jpg, prag: 128
+21:43:00.287 [nit 10] Rezervisan kljuc za obradu: slika.jpg_128
+21:43:11.219 [nit 10] Zahtev za fajl: slika2.jpg, prag: 128
+21:43:11.229 [nit 10] Rezervisan kljuc za obradu: slika2.jpg_128
+21:43:26.710 [nit 10] Zahtev za fajl: slika.jpg, prag: 128
+21:43:26.713 [nit 10] Pogodak u kesu za kljuc: slika.jpg_128
+21:43:49.722 [nit 3] Zahtev za fajl: slika2.jpg, prag: 128
+21:43:49.725 [nit 3] Pogodak u kesu za kljuc: slika2.jpg_128
